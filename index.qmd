@@ -1,6 +1,11 @@
 ---
-title: "Hi! I'm Hanne."
+title: ""
 ---
 
-A statistician interested in data visualization, interdisciplinarity, and open science.\
+<center>
 
+<h1> Hi! I'm Hanne. </h1>
+
+A statistician interested in data visualization, interdisciplinarity, and open science.
+
+</center>
