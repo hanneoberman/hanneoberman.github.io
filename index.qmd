@@ -4,7 +4,9 @@ title: ""
 
 <center>
 
-<h1> Hi! I'm Hanne. </h1>
+![](images/avatar.png){width=20%}
+
+<h1>Hi! I'm Hanne.</h1>
 
 A statistician interested in data visualization, interdisciplinarity, and open science.
 
