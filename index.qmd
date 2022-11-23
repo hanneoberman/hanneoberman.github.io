@@ -1,11 +1,6 @@
 ---
-title: "website"
+title: "Hi! I'm Hanne."
 ---
 
-This is a Quarto website.
+A statistician interested in data visualization, interdisciplinarity, and open science.\
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
