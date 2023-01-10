@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Currently, I'm working as a lecturer and research associate at Utrecht University's Methodology and Statistics department.\nFor 50% of my appointment I get to teach and supervise students, mostly in topics related to Applied Data Science. The other 50% of my appointment is research time. I'm involved in the Missing Data group led by Stef van Buuren and Gerko Vink, and I assist projects guided by Thomas Debray at the Julius Center for Health Sciences and Primary Care.\nIf you'd like to know more about my background and education, check out my LinkedIn profile or CV.\nIf you'd like to see my programming skills live in action, browse around through my GitHub repositories."
+    "text": "I’m a PhD candidate at Utrecht University. For a more extensive overview of my experience and education, see my CV or LinkedIn profile.\n\n\n\n\n\nEducation\n2023-current | PhD in Methodology and Statistics | Utrecht University | Utrecht, The Netherlands\n2018-2020 | MSc in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences | Utrecht University | Utrecht, The Netherlands\n2018 | Post-graduate education International Graduate Summer School of the Global Academy of Liberal Arts | Concordia University, Montreal, Canada\n2016-2018 | Honours degree Descartes College | Utrecht University | Utrecht, The Netherlands\n2014-2018 | BSc in Liberal Arts and Sciences | Utrecht University | Utrecht, The Netherlands\n\n\nExperience\n2020-2022 | Research and education officer Methodology and Statistics | Utrecht University | Utrecht, The Netherlands\n2020-2022 | Research assistant Julius Center for Health Sciences and Primary Care | University Medical Center Utrecht | Utrecht, The Netherlands"
   },
   {
     "objectID": "index.html",
@@ -18,6 +18,27 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "For an overview of my published work, see my ORCiD page. Other places to find my research output are my Utrecht University page, OSF, and Google Scholar. I post all of my ongoing work on GitHub."
+    "text": "For an overview of my published work, see my ORCID page. Other places to find my research output are my Utrecht University page, OSF, and Google Scholar. I aim to work open source and make my research repositories available on GitHub.\n\n\n\n\n\nDevelopment\n2021-current | ggmice: Visualizations for mice with ggplot2 | R package with vignette on CRAN\n2019-current | shinymice: Interactive evaluation for mice with shiny | R shiny web app with demo version and (upcoming) R package\n\n\nPublications\n2021 | Quality control, data cleaning, imputation | Book chapter available from ArXiv"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n2023-current | PhD in Methodology and Statistics | Utrecht University | Utrecht, The Netherlands\n2018-2020 | MSc in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences | Utrecht University | Utrecht, The Netherlands\n2018 | Post-graduate education International Graduate Summer School of the Global Academy of Liberal Arts | Concordia University, Montreal, Canada\n2016-2018 | Honours degree Descartes College | Utrecht University | Utrecht, The Netherlands\n2014-2018 | BSc in Liberal Arts and Sciences | Utrecht University | Utrecht, The Netherlands"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nFor 50% of my appointment I get to teach and supervise students, mostly in topics related to Applied Data Science. The other 50% of my appointment is research time. I’m involved in the Missing Data group led by Stef van Buuren and Gerko Vink, and I assist projects guided by Thomas Debray at the Julius Center for Health Sciences and Primary Care.\nIf you’d like to know more about my background and education, check out my LinkedIn profile or CV.\nIf you’d like to see my programming skills live in action, browse around through my GitHub repositories."
+  },
+  {
+    "objectID": "about.html#experience-1",
+    "href": "about.html#experience-1",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\nFor 50% of my appointment I get to teach and supervise students, mostly in topics related to Applied Data Science. The other 50% of my appointment is research time. I’m involved in the Missing Data group led by Stef van Buuren and Gerko Vink, and I assist projects guided by Thomas Debray at the Julius Center for Health Sciences and Primary Care.\nIf you’d like to know more about my background and education, check out my LinkedIn profile or CV.\nIf you’d like to see my programming skills live in action, browse around through my GitHub repositories."
   }
 ]

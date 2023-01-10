@@ -22,11 +22,11 @@ website:
         href: https://twitter.com/hioberman
       - icon: mastodon
         href: https://mastodon.social/@oberman
-      - icon: "{{< fa brands fa-orcid >}}"
+      - icon: "{{< ai orcid >}}"
         href: https://orcid.org/0000-0003-3276-2141
   open-graph: true
   twitter-card: true
-
+  favicon: logo.png
 
 format:
   html:
@@ -35,6 +35,6 @@ format:
       dark: [lux, theme-dark.scss]
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
 editor: visual
-

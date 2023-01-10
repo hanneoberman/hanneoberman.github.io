@@ -1,10 +1,26 @@
 ---
 title: ""
+about:
+  template: jolla
+  image: images/avatar.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/hanneoberman
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@oberman
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/hioberman
+    - icon: "{{< ai arxiv >}}"
+      text: ORCID
+      href: https://orcid.org/0000-0003-3276-2141
 ---
 
 <center>
 
-![](images/avatar.png){width=20%}
+<!-- ![](images/avatar.png){width=40%}{.border fig-alt="ALT text here"} -->
 
 <h1>Hi! I'm Hanne.</h1>
 

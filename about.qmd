@@ -2,10 +2,52 @@
 title: "About"
 ---
 
-Currently, I\'m working as a lecturer and research associate at Utrecht University\'s [Methodology and Statistics department](https://www.uu.nl/en/organisation/methodology-and-statistics).
+:::: {.columns}
 
-For 50% of my appointment I get to teach and supervise students, mostly in topics related to [Applied Data Science](https://www.uu.nl/en/research/applied-data-science). The other 50% of my appointment is research time. I\'m involved in the [Missing Data](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data) group led by [Stef van Buuren](https://stefvanbuuren.name/) and [Gerko Vink](https://www.gerkovink.com/), and I assist projects guided by [Thomas Debray](https://thomasdebray.be/) at the [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/).
+::: {.column width="30%"}
 
-If you\'d like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/hanneoberman/) or [CV](https://hanneoberman.github.io/CV/HanneObermanCV.pdf).
+### 
 
-If you\'d like to see my programming skills live in action, browse around through my [GitHub repositories](https://github.com/hanneoberman).
+<!-- <center> -->
+![](images/UU_logo.png){width=100%}
+<!-- {.border fig-alt="Logo Utrecht University"} -->
+<!-- </center> -->
+
+<br>
+I'm a PhD candidate at Utrecht University. For a more extensive overview of my experience and education, see my [CV](https://hanneoberman.github.io/CV/HanneObermanCV.pdf) or [LinkedIn profile](https://www.linkedin.com/in/hanneoberman/).
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+### Education
+
+2023-current \| **PhD in [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics)** \| Utrecht University \| Utrecht, The Netherlands
+
+2018-2020 \| **MSc in [Methodology and Statistics for the Behavioural, Biomedical and Social Sciences](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences)** \| Utrecht University \| Utrecht, The Netherlands
+
+2018 \| **Post-graduate education [International Graduate Summer School of the Global Academy of Liberal Arts](https://www.concordia.ca/summer/artsci/Previous-Summer-Schools/2018/GALA2018.html)** \| Concordia University, Montreal, Canada
+
+2016-2018 \| **Honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college)** \| Utrecht University \| Utrecht, The Netherlands
+
+2014-2018 \| **BSc in [Liberal Arts and Sciences](https://www.uu.nl/bachelors/liberal-arts-and-sciences)** \| Utrecht University \| Utrecht, The Netherlands
+
+
+### Experience
+
+2020-2022 \| Research and education officer [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) \| Utrecht University \| Utrecht, The Netherlands 
+
+2020-2022 \| Research assistant [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/) \| University Medical Center Utrecht \| Utrecht, The Netherlands
+
+<!-- For 50% of my appointment I get to teach and supervise students, mostly in topics related to [Applied Data Science](https://www.uu.nl/en/research/applied-data-science). The other 50% of my appointment is research time. I'm involved in the [Missing Data](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data) group led by [Stef van Buuren](https://stefvanbuuren.name/) and [Gerko Vink](https://www.gerkovink.com/), and I assist projects guided by [Thomas Debray](https://thomasdebray.be/) at the [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/). -->
+
+<!-- If you'd like to know more about my background and education, check out my [LinkedIn profile](https://www.linkedin.com/in/hanneoberman/) or [CV](https://hanneoberman.github.io/CV/HanneObermanCV.pdf). -->
+
+<!-- If you'd like to see my programming skills live in action, browse around through my [GitHub repositories](https://github.com/hanneoberman). -->
+
+:::
+
+::::

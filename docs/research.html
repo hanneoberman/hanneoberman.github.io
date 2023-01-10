@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.258">
+<meta name="generator" content="quarto-1.2.313">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./logo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -41,6 +42,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -64,10 +67,8 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Hanne Oberman - Research">
-<meta property="og:description" content="For an overview of my published work, see my ORCiD page. Other places to find my research output are my Utrecht University page, OSF, and Google Scholar. I post all of my ongoing work on GitHub.">
 <meta property="og:site-name" content="Hanne Oberman">
 <meta name="twitter:title" content="Hanne Oberman - Research">
-<meta name="twitter:description" content="For an overview of my published work, see my ORCiD page. Other places to find my research output are my Utrecht University page, OSF, and Google Scholar. I post all of my ongoing work on GitHub.">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -130,7 +131,28 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>For an overview of my published work, see my <a href="https://orcid.org/0000-0003-3276-2141">ORCiD page</a>. Other places to find my research output are my <a href="https://www.uu.nl/staff/HIOberman">Utrecht University page</a>, <a href="https://osf.io/d8c5f/">OSF</a>, and <a href="https://scholar.google.nl/citations?user=myLQXrEAAAAJ">Google Scholar</a>. I post all of my ongoing work on <a href="https://github.com/hanneoberman">GitHub</a>.</p>
+<div class="columns">
+<div class="column" style="width:30%;">
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"></h3>
+<p><img src="images/ggmice_logo.png" class="img-fluid" style="width:100.0%"></p>
+<p><br></p>
+<p>For an overview of my published work, see my <a href="https://orcid.org/0000-0003-3276-2141">ORCID page</a>. Other places to find my research output are my <a href="https://www.uu.nl/staff/HIOberman">Utrecht University page</a>, <a href="https://osf.io/d8c5f/">OSF</a>, and <a href="https://scholar.google.nl/citations?user=myLQXrEAAAAJ">Google Scholar</a>. I aim to work open source and make my research repositories available on <a href="https://github.com/hanneoberman">GitHub</a>.</p>
+</section>
+</div><div class="column" style="width:10%;">
+<!-- empty column to create gap -->
+</div><div class="column" style="width:60%;">
+<section id="development" class="level3">
+<h3 class="anchored" data-anchor-id="development">Development</h3>
+<p>2021-current | <code>ggmice</code>: Visualizations for <code>mice</code> with <code>ggplot2</code> | <code>R</code> package with <a href="https://amices.org/ggmice/">vignette</a> on <a href="https://CRAN.R-project.org/package=ggmice">CRAN</a></p>
+<p>2019-current | <code>shinymice</code>: Interactive evaluation for <code>mice</code> with <code>shiny</code> | <code>R</code> <code>shiny</code> web app with <a href="https://hanneoberman.shinyapps.io/shinymice-demo/">demo version</a> and (upcoming) <code>R</code> package</p>
+</section>
+<section id="publications" class="level3">
+<h3 class="anchored" data-anchor-id="publications">Publications</h3>
+<p>2021 | Quality control, data cleaning, imputation | Book chapter available from <a href="https://doi.org/10.48550/arXiv.2110.15877">ArXiv</a></p>
+</section>
+</div>
+</div>
 
 
 
@@ -381,6 +403,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
@@ -409,7 +445,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </li>  
     <li class="nav-item compact">
     <a class="nav-link" href="https://orcid.org/0000-0003-3276-2141">
-      <i class="bi bi-{{< fa brands fa-orcid >}}" role="img">
+      <i class="bi bi-{{< ai orcid >}}" role="img">
 </i> 
     </a>
   </li>  
