@@ -138,7 +138,7 @@ Hi! I’m Hanne.
      <span class="about-link-text">Twitter</span>
   </a>
   <a href="https://orcid.org/0000-0003-3276-2141" class="about-link">
-    <i class="bi bi-{{< ai arxiv >}}"></i>
+    <i class="bi bi-orcid"></i>
      <span class="about-link-text">ORCID</span>
   </a>
 </div>
@@ -384,7 +384,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp(/https:\/\/github\.com\/hanneoberman\/hanneoberman\.github\.io/);
+      var filterRegex = new RegExp(/https:\/\/hanneoberman\.github\.io\//);
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
