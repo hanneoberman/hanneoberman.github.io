@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Hi! I'm Hanne."
 about:
   template: jolla
   image: images/avatar.png
@@ -13,7 +13,7 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/hioberman
-    - icon: "orcid"
+    - icon: ai-orcid
       text: ORCID
       href: https://orcid.org/0000-0003-3276-2141
 ---
@@ -22,7 +22,7 @@ about:
 
 <!-- ![](images/avatar.png){width=40%}{.border fig-alt="ALT text here"} -->
 
-<h1>Hi! I'm Hanne.</h1>
+<!-- <h1></h1> -->
 
 A statistician interested in data visualization, interdisciplinarity, and open science.
 
