@@ -4,17 +4,28 @@ project:
 
 website:
   title: "Hanne Oberman"
+  description: "Personal website of Hanne Oberman"
+  repo-url: https://github.com/hanneoberman/hanneoberman.github.io
   navbar:
     title: false
     background: dark
+    foreground: light
     search: true
     right:
       - href: index.qmd
         text: Home
       - about.qmd
       - research.qmd
+      - icon: bi-box-arrow-up-right
+        href: https://hanneoberman.github.io/CV/HanneObermanCV.pdf
+        text: CV
+      - icon: bi-box-arrow-up-right
+        href: https://hanneoberman.github.io/presentations
+        text: Talks
   page-footer: 
-    left: "H.I. Oberman, MSc" 
+    left: 
+      - icon: cc-circle
+        text: "H.I. Oberman, MSc" 
     right: 
       - icon: github
         href: https://github.com/hanneoberman
@@ -22,7 +33,7 @@ website:
         href: https://twitter.com/hioberman
       - icon: mastodon
         href: https://mastodon.social/@oberman
-      - icon: "{{< ai orcid >}}"
+      - icon: ai-orcid
         href: https://orcid.org/0000-0003-3276-2141
   open-graph: true
   twitter-card: true
@@ -32,9 +43,11 @@ format:
   html:
     theme: 
       light: [lux, theme-light.scss]
-      dark: [lux, theme-dark.scss]
     css: styles.css
     toc: true
+    toc-depth: 2
+    toc-title: "Contents"
     link-external-newwindow: true
-
-editor: visual
+    include-in-header:
+      - includes.html
+    page-layout: full
