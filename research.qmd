@@ -11,14 +11,10 @@ For an overview of my published work, see my [ORCID page](https://orcid.org/0000
 ### Development
 
 :::{.column-margin}
-```{r}
-#| echo: false
-#| fig-alt: "Logo of Utrecht University"
-knitr::include_graphics("images/ggmice_logo.png")
-```
-::: {.extra-small-text .dark-gray-text .topbr}
-<br> The `R` package `ggmice`
-:::
+<br> <br> 
+![](images/ggmice_logo.png){width=80%} 
+<br> <br> 
+The `R` package `ggmice`
 :::
 
 
@@ -29,14 +25,10 @@ knitr::include_graphics("images/ggmice_logo.png")
 ### Selected contributions
 
 :::{.column-margin}
-```{r}
-#| echo: false
-#| fig-alt: "Logo of Utrecht University"
-knitr::include_graphics("images/pixel.png")
-```
-::: {.extra-small-text .dark-gray-text .topbr}
-<br> <br>
-:::
+<br> <br> 
+![](images/pixel.png){width=1%} 
+<br> <br> 
+<br>
 :::
 
 

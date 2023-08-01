@@ -12,14 +12,10 @@ I'm a PhD candidate at Utrecht University. For a more extensive overview of my e
 ### Experience
 
 :::{.column-margin}
-```{r}
-#| echo: false
-#| fig-alt: "Logo of Utrecht University"
-knitr::include_graphics("images/OSCU_logo.png")
-```
-::: {.extra-small-text .dark-gray-text .topbr}
-<br> Open Science Community Utrecht
-:::
+<br> <br> 
+![](images/OSCU_logo.png){width=80%} 
+<br> <br> 
+Open Science Community Utrecht
 :::
 
 2023-current \| **PhD candidate [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics)** \| Utrecht University \| Utrecht, The Netherlands
@@ -35,14 +31,10 @@ knitr::include_graphics("images/OSCU_logo.png")
 ### Education
 
 :::{.column-margin}
-```{r}
-#| echo: false
-#| fig-alt: "Logo of Utrecht University"
-knitr::include_graphics("images/UU_logo.png")
-```
-::: {.extra-small-text .dark-gray-text .topbr}
-<br> Utrecht University
-:::
+<br> <br> 
+![](images/UU_logo.png){width=80%} 
+<br> <br> 
+Utrecht University
 :::
 
 2018-2020 \| **MSc in [Methodology and Statistics for the Behavioural, Biomedical and Social Sciences](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences)** \| Utrecht University \| Utrecht, The Netherlands
