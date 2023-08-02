@@ -7,13 +7,14 @@ website:
   description: "Personal website of Hanne Oberman"
   repo-url: https://github.com/hanneoberman/hanneoberman.github.io
   navbar:
+    logo: images/avatar.png
     title: false
     background: dark
     foreground: light
-    search: true
-    right:
+    left: 
       - href: index.qmd
-        text: Home
+        text: Hanne Oberman
+    right:
       - about.qmd
       - research.qmd
       - icon: bi-box-arrow-up-right
@@ -22,6 +23,10 @@ website:
       - icon: bi-box-arrow-up-right
         href: https://hanneoberman.github.io/presentations
         text: Talks
+      - icon: bi-box-arrow-up-right
+        href: https://github.com/hanneoberman
+        text: Code
+    search: true
   page-footer: 
     left: 
       - icon: cc-circle
