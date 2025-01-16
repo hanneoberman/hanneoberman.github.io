@@ -11,13 +11,62 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "For an overview of my published work, see my ORCID page. Other places to find my research output are my Utrecht University page, OSF, and Google Scholar. I aim to work open source and make my research repositories available on GitHub.\n\nDevelopment\n\n\n     The R package ggmice\n2021-current | ggmice: Visualizations for mice with ggplot2 | R package with vignette on CRAN\n2019-current | shinymice: Interactive evaluation for mice with shiny | R shiny web app with demo version and (upcoming) R package\n\n\nSelected contributions\n\n\n     \n2023 | Toward a standardized evaluation of imputation methodology | Review article published in Biometrical Journal\n2021 | Quality control, data cleaning, imputation | Book chapter available from ArXiv\n2020 | Missing the point: non-convergence in iterative imputation algorithms | Conference paper presented at ICML available from ArXiv"
+    "text": "My research focuses on missing data methodology, with a particular interest in imputation algorithms. Reach out to me if you have questions about imputation with the R package {mice}, or if you want to collaborate on a project. I am also available for statistical consultation and workshops on missing data methodology .\nFor an overview of my published work, see my ORCID page. Other places to find my research output are my Utrecht University page, OSF, and Google Scholar. I aim to work open source and make my research repositories available on GitHub."
+  },
+  {
+    "objectID": "research.html#development",
+    "href": "research.html#development",
+    "title": "Research",
+    "section": "Development",
+    "text": "Development\n\n\n     Research output\n2021-current | ggmice: Visualizations for mice with ggplot2 | R package with vignette on CRAN\n2019-current | shinymice: Interactive evaluation for mice with shiny | R shiny web app with demo version and (upcoming) R package"
+  },
+  {
+    "objectID": "research.html#selected-contributions",
+    "href": "research.html#selected-contributions",
+    "title": "Research",
+    "section": "Selected contributions",
+    "text": "Selected contributions\n\n\n    \n2024 | Toward a standardized evaluation of imputation methodology | Review article published in Biometrical Journal\n2023 | Quality control, data cleaning, imputation | Book chapter in ‘Clinical Applications of Artificial Intelligence in Real-World Data’, available from ArXiv\n2020 | Missing the point: non-convergence in iterative imputation algorithms | Conference paper presented at ICML, available from ArXiv"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m a PhD candidate at Utrecht University. For a more extensive overview of my experience and education, see my CV or LinkedIn profile.\n\n\n\n\n\nExperience\n\n\n     Open Science Community Utrecht\n2023-current | PhD candidate Methodology and Statistics | Utrecht University | Utrecht, The Netherlands\n2022-current | Faculty ambassador Open Science Community Utrecht | Utrecht University | Utrecht, The Netherlands\n2020-2022 | Research and education officer Methodology and Statistics | Utrecht University | Utrecht, The Netherlands\n2020-2022 | Research assistant Julius Center for Health Sciences and Primary Care | University Medical Center Utrecht | Utrecht, The Netherlands\n\n\nEducation\n\n\n     Utrecht University\n2018-2020 | MSc in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences | Utrecht University | Utrecht, The Netherlands\n2018 | Post-graduate education International Graduate Summer School of the Global Academy of Liberal Arts | Concordia University, Montreal, Canada\n2016-2018 | Honours degree Descartes College | Utrecht University | Utrecht, The Netherlands\n2014-2018 | BSc in Liberal Arts and Sciences | Utrecht University | Utrecht, The Netherlands"
+    "text": "My name is Hanne (she/her, they/them). I’m a PhD candidate and lecturer in Methodology and Statistics at Utrecht University.\nFor an extensive overview of my experience and education, see my CV or LinkedIn profile. For more information about my research, or to get into contact for statistical consultation, see the Research tab."
+  },
+  {
+    "objectID": "about.html#motivation",
+    "href": "about.html#motivation",
+    "title": "About",
+    "section": "Motivation",
+    "text": "Motivation\n\n\n     Hanne Oberman\nI am very passionate about ‘dull’ or ‘difficult’ topics such as statistics, programming, and philosophy of science. I’m motivated to use my enthusiasm and expertise to improve the quality of academic research and education. I aspire to (help others to) solve complex real-world problems that require insights from many disciplines and methodologies."
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "About",
+    "section": "Research",
+    "text": "Research\n\n\n     Research output\nCurrently, I am pursuing a PhD in missing data methodology. Have you ever skipped a question in a survey? You’re not alone! In scientific research, data are often incomplete, which may cause biased research results. I study how researchers can obtain reliable and accurate insights even when their data are incomplete."
+  },
+  {
+    "objectID": "about.html#programming",
+    "href": "about.html#programming",
+    "title": "About",
+    "section": "Programming",
+    "text": "Programming\n\n\n     rainbowR community\nAs part of my research, I develop software tools to facilitate the analysis of incomplete data in R. My R package {ggmice} is available on CRAN. I have also contributed to the R source code on several occasions. Next to that, I am an organizer for rainbowR, a network of LGBTQ+ programmers, where I host events and manage communication channels such as LinkedIn, Bluesky, Mastodon, and Slack."
+  },
+  {
+    "objectID": "about.html#teaching-supervision",
+    "href": "about.html#teaching-supervision",
+    "title": "About",
+    "section": "Teaching & supervision",
+    "text": "Teaching & supervision\n\n\n     Utrecht University\nI enjoy teaching a wide range of topics, from introductory statistics to advanced data science, and from qualitative research methodology to missing data methodology. I am also proud to be involved in supervising student thesis projects in ‘Applied Data Science’ and ‘Methodology and Statistics for the Behavioural, Biomedical and Social Sciences’."
+  },
+  {
+    "objectID": "about.html#open-science",
+    "href": "about.html#open-science",
+    "title": "About",
+    "section": "Open Science",
+    "text": "Open Science\n\n\n     Open Science Community Utrecht\nI’m somewhat of an Open Science activist. I am committed to promoting open science practices, such as preregistration, open data, and open access. I believe that open science is essential for improving the quality, transparency, and reproducibility of scientific research. As chair of the Open Science Community Utrecht, I get to represent a network of Utrecht-based (UU, UMCU, HU) open science practitioners and enthusiasts."
   }
 ]
