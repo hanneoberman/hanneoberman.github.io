@@ -2,46 +2,67 @@
   title: "About"
 ---
 
-I'm a PhD candidate at Utrecht University. For a more extensive overview of my experience and education, see my [CV](https://hanneoberman.github.io/CV/HanneObermanCV.pdf) or [LinkedIn profile](https://www.linkedin.com/in/hanneoberman/).
+My name is Hanne (she/her, they/them). I'm a PhD candidate and lecturer in [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) at Utrecht University. 
 
-<!-- <center> -->
-<!-- ![](images/UU_logo.png){width=100%} -->
-<!-- {.border fig-alt="Logo Utrecht University"} -->
-<!-- </center> -->
+For an extensive overview of my experience and education, see my [CV](https://hanneoberman.github.io/CV/HanneObermanCV.pdf) or [LinkedIn profile](https://www.linkedin.com/in/hanneoberman/). For more information about my research, or to get into contact for statistical consultation, see the [Research](https://hanneoberman.github.io/research) tab.
 
-### Experience
+
+## Motivation
 
 :::{.column-margin}
 <br> <br> 
-![](images/OSCU_logo.png){width=80%} 
+![](images/avatar.png){width=60%} 
 <br> <br> 
-Open Science Community Utrecht
+Hanne Oberman
 :::
 
-2023-current \| **PhD candidate [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics)** \| Utrecht University \| Utrecht, The Netherlands
-
-2022-current \| Faculty ambassador [Open Science Community Utrecht](https://openscience-utrecht.com/) \| Utrecht University \| Utrecht, The Netherlands 
-
-2020-2022 \| Research and education officer [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) \| Utrecht University \| Utrecht, The Netherlands 
-
-2020-2022 \| Research assistant [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/) \| University Medical Center Utrecht \| Utrecht, The Netherlands
+I am very passionate about 'dull' or 'difficult' topics such as statistics, programming, and philosophy of science. I'm motivated to use my enthusiasm and expertise to improve the quality of academic research and education. I aspire to (help others to) solve complex real-world problems that require insights from many disciplines and methodologies.
 
 
-
-### Education
+## Research
 
 :::{.column-margin}
 <br> <br> 
-![](images/UU_logo.png){width=80%} 
+![](images/ggmice_logo.png){width=60%} 
+<br> <br> 
+Research output
+:::
+
+Currently, I am pursuing a PhD in [missing data methodology](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data). Have you ever skipped a question in a survey? You're not alone! In scientific research, data are often incomplete, which may cause biased research results. I study how researchers can obtain reliable and accurate insights even when their data are incomplete. 
+
+
+## Programming
+
+:::{.column-margin}
+<br> <br> 
+![](images/rainbowR_logo.png){width=60%} 
+<br> <br> 
+rainbowR community
+:::
+
+As part of my research, I develop software tools to facilitate the analysis of incomplete data in `R`. My `R` package `{ggmice}` is available on CRAN. I have also contributed to the `R` source code on several occasions. Next to that, I am an organizer for [rainbowR](https://rainbowr.org/), a network of LGBTQ+ programmers, where I host events and manage communication channels such as LinkedIn, Bluesky, Mastodon, and Slack.
+
+
+## Teaching & supervision
+
+:::{.column-margin}
+<br> <br> 
+![](images/UU_logo.png){width=60%} 
 <br> <br> 
 Utrecht University
 :::
 
-2018-2020 \| **MSc in [Methodology and Statistics for the Behavioural, Biomedical and Social Sciences](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences)** \| Utrecht University \| Utrecht, The Netherlands
+I enjoy teaching a wide range of topics, from introductory statistics to advanced data science, and from qualitative research methodology to missing data methodology. I am also proud to be involved in supervising student thesis projects in 'Applied Data Science' and 'Methodology and Statistics for the Behavioural, Biomedical and Social Sciences'.
 
-2018 \| **Post-graduate education [International Graduate Summer School of the Global Academy of Liberal Arts](https://www.concordia.ca/summer/artsci/Previous-Summer-Schools/2018/GALA2018.html)** \| Concordia University, Montreal, Canada
 
-2016-2018 \| **Honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college)** \| Utrecht University \| Utrecht, The Netherlands
+## Open Science
 
-2014-2018 \| **BSc in [Liberal Arts and Sciences](https://www.uu.nl/bachelors/liberal-arts-and-sciences)** \| Utrecht University \| Utrecht, The Netherlands
+:::{.column-margin}
+<br> <br> 
+![](images/OSCU_logo.png){width=60%} 
+<br> <br> 
+Open Science Community Utrecht
+:::
+
+I'm somewhat of an Open Science activist. I am committed to promoting open science practices, such as preregistration, open data, and open access. I believe that open science is essential for improving the quality, transparency, and reproducibility of scientific research. As chair of the [Open Science Community Utrecht](https://openscience-utrecht.com/), I get to represent a network of Utrecht-based (UU, UMCU, HU) open science practitioners and enthusiasts. 
 

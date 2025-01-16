@@ -18,7 +18,7 @@ website:
       - about.qmd
       - research.qmd
       - icon: bi-box-arrow-up-right
-        href: https://hanneoberman.github.io/CV/HanneOberman
+        href: https://hanneoberman.github.io/CV/HanneOberman.html
         text: CV
       - icon: bi-box-arrow-up-right
         href: https://hanneoberman.github.io/presentations
@@ -28,24 +28,14 @@ website:
         text: Code
     search: true
   page-footer: 
-    left: 
-      - icon: cc-circle
-        text: "H.I. Oberman, MSc" 
     right: 
-      - icon: github
-        href: https://github.com/hanneoberman
-      - icon: twitter 
-        href: https://twitter.com/hioberman
-      - icon: bluesky
-        href: https://bsky.app/profile/oberman.bsky.social
-      - icon: mastodon
-        href: https://mastodon.social/@oberman
-      - icon: ai-orcid
-        href: https://orcid.org/0000-0003-3276-2141
+      - icon: cc-circle
+        text: "H.I. Oberman" 
   open-graph: true
   twitter-card: true
   favicon: logo.png
-
+email-obfuscation: javascript
+css: styles.css
 format:
   html:
     theme: 
