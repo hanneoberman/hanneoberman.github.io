@@ -2,38 +2,38 @@
 title: "Research"
 ---
 
+<link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-<!-- ![](images/ggmice_logo.png){width="100%"} -->
+
+My research focuses on missing data methodology, with a particular interest in imputation algorithms. Reach out to me if you have questions about imputation with the `R` package `{mice}`, or if you want to collaborate on a project. I am also available for statistical consultation and workshops on missing data methodology <a href=mailto:h.i.oberman@uu.nl class="fa fa-envelope"></a>.
 
 For an overview of my published work, see my [ORCID page](https://orcid.org/0000-0003-3276-2141). Other places to find my research output are my [Utrecht University page](https://www.uu.nl/staff/HIOberman), [OSF](https://osf.io/d8c5f/), and [Google Scholar](https://scholar.google.nl/citations?user=myLQXrEAAAAJ). I aim to work open source and make my research repositories available on [GitHub](https://github.com/hanneoberman).
 
 
-### Development
+## Development
 
 :::{.column-margin}
 <br> <br> 
-![](images/ggmice_logo.png){width=80%} 
+![](images/ggmice_logo.png){width=60%} 
 <br> <br> 
-The `R` package `ggmice`
+Research output
 :::
-
 
 2021-current \| `ggmice`: Visualizations for `mice` with `ggplot2` \| `R` package with [vignette](https://amices.org/ggmice/) on [CRAN](https://CRAN.R-project.org/package=ggmice)
 
 2019-current \| `shinymice`: Interactive evaluation for `mice` with `shiny` \| `R` `shiny` web app with [demo version](https://hanneoberman.shinyapps.io/shinymice-demo/) and (upcoming) `R` package
 
-### Selected contributions
+## Selected contributions
 
 :::{.column-margin}
 <br> <br> 
 ![](images/pixel.png){width=1%} 
 <br> <br> 
-<br>
 :::
 
+2024 \| Toward a standardized evaluation of imputation methodology \| Review article published in [Biometrical Journal](https://doi.org/10.1002/bimj.202200107)
 
-2023 \| Toward a standardized evaluation of imputation methodology \| Review article published in [Biometrical Journal](https://doi.org/10.1002/bimj.202200107)
+2023 \| Quality control, data cleaning, imputation \| Book chapter in 'Clinical Applications
+of Artificial Intelligence in Real-World Data', available from [ArXiv](https://doi.org/10.48550/arXiv.2110.15877)
 
-2021 \| Quality control, data cleaning, imputation \| Book chapter available from [ArXiv](https://doi.org/10.48550/arXiv.2110.15877)
-
-2020 \| Missing the point: non-convergence in iterative imputation algorithms \| Conference paper presented at ICML available from [ArXiv](https://doi.org/10.48550/arXiv.2110.11951)
+2020 \| Missing the point: non-convergence in iterative imputation algorithms \| Conference paper presented at ICML, available from [ArXiv](https://doi.org/10.48550/arXiv.2110.11951)
