@@ -11,9 +11,8 @@ For an extensive overview of my experience and education, see my [CV](https://ha
 
 :::{.column-margin}
 <br> <br> 
-![](images/avatar.png){width=60%} 
+![](images/pixel.png){width=1%} 
 <br> <br> 
-Hanne Oberman
 :::
 
 I am very passionate about 'dull' or 'difficult' topics such as statistics, programming, and philosophy of science. I'm motivated to use my enthusiasm and expertise to improve the quality of academic research and education. I aspire to (help others to) solve complex real-world problems that require insights from many disciplines and methodologies.
@@ -23,9 +22,9 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 :::{.column-margin}
 <br> <br> 
-![](images/ggmice_logo.png){width=60%} 
+![](images/poster.png){width=60%} 
 <br> <br> 
-Research output
+[`{ggmice}`](https://amices.org/ggmice) poster
 :::
 
 Currently, I am pursuing a PhD in [missing data methodology](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data). Have you ever skipped a question in a survey? You're not alone! In scientific research, data are often incomplete, which may cause biased research results. I study how researchers can obtain reliable and accurate insights even when their data are incomplete. 
@@ -35,9 +34,9 @@ Currently, I am pursuing a PhD in [missing data methodology](https://www.uu.nl/e
 
 :::{.column-margin}
 <br> <br> 
-![](images/rainbowR_logo.png){width=60%} 
+![](images/rainbowR_team.png){width=60%} 
 <br> <br> 
-rainbowR community
+[rainbowR](https://rainbowr.org) talk
 :::
 
 As part of my research, I develop software tools to facilitate the analysis of incomplete data in `R`. My `R` package `{ggmice}` is available on CRAN. I have also contributed to the `R` source code on several occasions. Next to that, I am an organizer for [rainbowR](https://rainbowr.org/), a network of LGBTQ+ programmers, where I host events and manage communication channels such as LinkedIn, Bluesky, Mastodon, and Slack.
@@ -47,9 +46,9 @@ As part of my research, I develop software tools to facilitate the analysis of i
 
 :::{.column-margin}
 <br> <br> 
-![](images/UU_logo.png){width=60%} 
+![](images/breakingscience.png){width=60%} 
 <br> <br> 
-Utrecht University
+[Breaking Science](https://www.uu.nl/en/research/breaking-science)
 :::
 
 I enjoy teaching a wide range of topics, from introductory statistics to advanced data science, and from qualitative research methodology to missing data methodology. I am also proud to be involved in supervising student thesis projects in 'Applied Data Science' and 'Methodology and Statistics for the Behavioural, Biomedical and Social Sciences'.
@@ -57,11 +56,11 @@ I enjoy teaching a wide range of topics, from introductory statistics to advance
 
 ## Open Science
 
+
 :::{.column-margin}
 <br> <br> 
-![](images/OSCU_logo.png){width=60%} 
+![](images/pixel.png){width=1%} 
 <br> <br> 
-Open Science Community Utrecht
 :::
 
 I'm somewhat of an Open Science activist. I am committed to promoting open science practices, such as preregistration, open data, and open access. I believe that open science is essential for improving the quality, transparency, and reproducibility of scientific research. As chair of the [Open Science Community Utrecht](https://openscience-utrecht.com/), I get to represent a network of Utrecht-based (UU, UMCU, HU) open science practitioners and enthusiasts. 

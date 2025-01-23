@@ -16,7 +16,7 @@ For an overview of my published work, see my [ORCID page](https://orcid.org/0000
 <br> <br> 
 ![](images/ggmice_logo.png){width=60%} 
 <br> <br> 
-Research output
+`{ggmice}` package
 :::
 
 2021-current \| `ggmice`: Visualizations for `mice` with `ggplot2` \| `R` package with [vignette](https://amices.org/ggmice/) on [CRAN](https://CRAN.R-project.org/package=ggmice)
