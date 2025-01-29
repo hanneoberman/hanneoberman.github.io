@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on missing data methodology, with a focus in imputation algorithms. I’m part of the Missing Data research group at Utrecht University, and software developer in the Amices team.\nYou can reach out to me if you have any questions about imputation with the R package {mice}, or if you want to collaborate on a project. I also offer workshops on missing data methodology, open science, and reproducible data science. And I’m available for consultation projects on imputing incomplete data, see our department website on statistical consulting or e-mail me (h.i.oberman at uu dot nl) directly.\nI aim to work open source and make all of my research repositories publicly available, for example on GitHub or the OSF. For an overview of my published work, see my ORCID page. Other places to find my research output are my CV, Utrecht University page, and Google Scholar."
+  },
+  {
+    "objectID": "research.html#selected-contributions",
+    "href": "research.html#selected-contributions",
+    "title": "Research",
+    "section": "Selected contributions",
+    "text": "Selected contributions\n\n\n    \n2024 | Toward a standardized evaluation of imputation methodology | Review article published in Biometrical Journal\n2023 | Quality control, data cleaning, imputation | Book chapter in ‘Clinical Applications of Artificial Intelligence in Real-World Data’, available from ArXiv\n2020 | Missing the point: non-convergence in iterative imputation algorithms | Conference paper presented at ICML, available from ArXiv"
+  },
+  {
+    "objectID": "research.html#development",
+    "href": "research.html#development",
+    "title": "Research",
+    "section": "Development",
+    "text": "Development\n\n\n     {ggmice} package\n2021-current | ggmice: Visualizations for mice with ggplot2 | R package with vignette on CRAN\n2019-current | shinymice: Interactive evaluation for mice with shiny | R shiny web app with demo version and (upcoming) R package"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,18 +28,11 @@
     "text": "My name is Hanne (she/her, they/them). I’m a PhD candidate and lecturer in Methodology and Statistics at Utrecht University.\nFor an extensive overview of my experience and education, see my CV or LinkedIn profile. For more information about my research, or to get into contact for statistical consultation, see the Research tab."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi! I’m Hanne.",
-    "section": "",
-    "text": "A statistician interested in data visualization, interdisciplinarity, and open science."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research focuses on missing data methodology, with a particular interest in imputation algorithms. Reach out to me if you have questions about imputation with the R package {mice}, or if you want to collaborate on a project. I am also available for statistical consultation and workshops on missing data methodology .\nFor an overview of my published work, see my ORCID page. Other places to find my research output are my Utrecht University page, OSF, and Google Scholar. I aim to work open source and make my research repositories available on GitHub."
+    "objectID": "about.html#motivation",
+    "href": "about.html#motivation",
+    "title": "About",
+    "section": "Motivation",
+    "text": "Motivation\n\n\n    \nI am very passionate about ‘dull’ or ‘difficult’ topics such as statistics, programming, and philosophy of science. I’m motivated to use my enthusiasm and expertise to improve the quality of academic research and education. I aspire to (help others to) solve complex real-world problems that require insights from many disciplines and methodologies."
   },
   {
     "objectID": "about.html#research",
@@ -26,6 +40,13 @@
     "title": "About",
     "section": "Research",
     "text": "Research\n\n\n     {ggmice} poster\nCurrently, I am pursuing a PhD in missing data methodology. Have you ever skipped a question in a survey? You’re not alone! In scientific research, data are often incomplete, which may cause biased research results. I study how researchers can obtain reliable and accurate insights even when their data are incomplete."
+  },
+  {
+    "objectID": "about.html#programming",
+    "href": "about.html#programming",
+    "title": "About",
+    "section": "Programming",
+    "text": "Programming\n\n\n     rainbowR talk\nAs part of my research, I develop software tools to facilitate the analysis of incomplete data in R. My R package {ggmice} is available on CRAN. I have also contributed to the R source code on several occasions. Next to that, I am an organizer for rainbowR, a network of LGBTQ+ programmers, where I host events and manage communication channels such as LinkedIn, Bluesky, Mastodon, and Slack."
   },
   {
     "objectID": "about.html#teaching-supervision",
@@ -42,31 +63,10 @@
     "text": "Open Science\n\n\n    \nI’m somewhat of an Open Science activist. I am committed to promoting open science practices, such as preregistration, open data, and open access. I believe that open science is essential for improving the quality, transparency, and reproducibility of scientific research. As chair of the Open Science Community Utrecht, I get to represent a network of Utrecht-based (UU, UMCU, HU) open science practitioners and enthusiasts."
   },
   {
-    "objectID": "about.html#programming",
-    "href": "about.html#programming",
-    "title": "About",
-    "section": "Programming",
-    "text": "Programming\n\n\n     rainbowR talk\nAs part of my research, I develop software tools to facilitate the analysis of incomplete data in R. My R package {ggmice} is available on CRAN. I have also contributed to the R source code on several occasions. Next to that, I am an organizer for rainbowR, a network of LGBTQ+ programmers, where I host events and manage communication channels such as LinkedIn, Bluesky, Mastodon, and Slack."
-  },
-  {
-    "objectID": "about.html#motivation",
-    "href": "about.html#motivation",
-    "title": "About",
-    "section": "Motivation",
-    "text": "Motivation\n\n\n    \nI am very passionate about ‘dull’ or ‘difficult’ topics such as statistics, programming, and philosophy of science. I’m motivated to use my enthusiasm and expertise to improve the quality of academic research and education. I aspire to (help others to) solve complex real-world problems that require insights from many disciplines and methodologies."
-  },
-  {
-    "objectID": "research.html#development",
-    "href": "research.html#development",
-    "title": "Research",
-    "section": "Development",
-    "text": "Development\n\n\n     {ggmice} package\n2021-current | ggmice: Visualizations for mice with ggplot2 | R package with vignette on CRAN\n2019-current | shinymice: Interactive evaluation for mice with shiny | R shiny web app with demo version and (upcoming) R package"
-  },
-  {
-    "objectID": "research.html#selected-contributions",
-    "href": "research.html#selected-contributions",
-    "title": "Research",
-    "section": "Selected contributions",
-    "text": "Selected contributions\n\n\n    \n2024 | Toward a standardized evaluation of imputation methodology | Review article published in Biometrical Journal\n2023 | Quality control, data cleaning, imputation | Book chapter in ‘Clinical Applications of Artificial Intelligence in Real-World Data’, available from ArXiv\n2020 | Missing the point: non-convergence in iterative imputation algorithms | Conference paper presented at ICML, available from ArXiv"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi! I’m Hanne.",
+    "section": "",
+    "text": "A statistician interested in data visualization, interdisciplinarity, and open science."
   }
 ]
