@@ -34,6 +34,8 @@ I aim to work open source and make all of my research repositories publicly avai
 <br> <br> 
 :::
 
+2025 \| Is the Most Likely Value Also the Best Imputation? \| Comment published in [Paediatric and Perinatal Epidemiology](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ppe.70081)
+
 2024 \| Toward a standardized evaluation of imputation methodology \| Review article published in [Biometrical Journal](https://doi.org/10.1002/bimj.202200107)
 
 2023 \| Quality control, data cleaning, imputation \| Book chapter in 'Clinical Applications
