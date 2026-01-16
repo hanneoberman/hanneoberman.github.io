@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.30">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./logo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2cf30c08cbf6905909d87d3687e93aca.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c0423eb634ba5c4072d9e13152fba759.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -96,7 +97,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/avatar.png" alt="" class="navbar-logo">
+    <img src="./images/avatar.png" alt="" class="navbar-logo light-content">
+    <img src="./images/avatar.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -199,7 +201,8 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#x6
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p><br> <br> <img src="images/pixel.png" class="img-fluid" style="width:1.0%"> <br> <br></p>
-</div></div><p>2024 | Toward a standardized evaluation of imputation methodology | Review article published in <a href="https://doi.org/10.1002/bimj.202200107">Biometrical Journal</a></p>
+</div></div><p>2025 | Is the Most Likely Value Also the Best Imputation? | Comment published in <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/ppe.70081">Paediatric and Perinatal Epidemiology</a></p>
+<p>2024 | Toward a standardized evaluation of imputation methodology | Review article published in <a href="https://doi.org/10.1002/bimj.202200107">Biometrical Journal</a></p>
 <p>2023 | Quality control, data cleaning, imputation | Book chapter in ‘Clinical Applications of Artificial Intelligence in Real-World Data’, available from <a href="https://doi.org/10.48550/arXiv.2110.15877">ArXiv</a></p>
 <p>2020 | Missing the point: non-convergence in iterative imputation algorithms | Conference paper presented at ICML, available from <a href="https://doi.org/10.48550/arXiv.2110.11951">ArXiv</a></p>
 
@@ -258,13 +261,14 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#x6
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

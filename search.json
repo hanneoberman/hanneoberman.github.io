@@ -18,14 +18,21 @@
     "href": "research.html#selected-contributions",
     "title": "Research",
     "section": "Selected contributions",
-    "text": "Selected contributions\n\n\n    \n2024 | Toward a standardized evaluation of imputation methodology | Review article published in Biometrical Journal\n2023 | Quality control, data cleaning, imputation | Book chapter in ‘Clinical Applications of Artificial Intelligence in Real-World Data’, available from ArXiv\n2020 | Missing the point: non-convergence in iterative imputation algorithms | Conference paper presented at ICML, available from ArXiv"
+    "text": "Selected contributions\n\n\n    \n2025 | Is the Most Likely Value Also the Best Imputation? | Comment published in Paediatric and Perinatal Epidemiology\n2024 | Toward a standardized evaluation of imputation methodology | Review article published in Biometrical Journal\n2023 | Quality control, data cleaning, imputation | Book chapter in ‘Clinical Applications of Artificial Intelligence in Real-World Data’, available from ArXiv\n2020 | Missing the point: non-convergence in iterative imputation algorithms | Conference paper presented at ICML, available from ArXiv"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi! I’m Hanne.",
+    "section": "",
+    "text": "A statistician interested in data visualization, interdisciplinarity, and open science."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My name is Hanne (they/them). I’m a PhD candidate and lecturer in Methodology and Statistics at Utrecht University.\nFor an extensive overview of my experience and education, see my CV or LinkedIn profile. For more information about my research, or to get into contact for statistical consultation, see the Research tab."
+    "text": "My name is Hanne (pronouns: they/them). I’m a PhD candidate and lecturer in Methodology and Statistics at Utrecht University.\nFor an extensive overview of my experience and education, see my CV or LinkedIn profile. For more information about my research, or to get into contact for statistical consultation, see the Research tab."
   },
   {
     "objectID": "about.html#motivation",
@@ -46,27 +53,20 @@
     "href": "about.html#programming",
     "title": "About",
     "section": "Programming",
-    "text": "Programming\n\n\n     rainbowR talk\nAs part of my research, I develop software tools to facilitate the analysis of incomplete data in R. My R package {ggmice} is available on CRAN. I have also contributed to the R source code on several occasions. Next to that, I am an organizer for rainbowR, a network of LGBTQ+ programmers, where I host events and manage communication channels such as LinkedIn, Bluesky, Mastodon, and Slack."
+    "text": "Programming\n\n\n     rainbowR talk\nAs part of my research, I develop software tools to facilitate the analysis of incomplete data in R. I’m a developer for {mice}, and developer/maintainer for {ggmice} (available on CRAN). I have also contributed to the R source code on several occasions. Next to that, I am an organizer for rainbowR, a network of LGBTQ+ programmers, where I host events and manage communication channels such as LinkedIn, Bluesky, Mastodon, and Slack."
   },
   {
     "objectID": "about.html#teaching-supervision",
     "href": "about.html#teaching-supervision",
     "title": "About",
     "section": "Teaching & supervision",
-    "text": "Teaching & supervision\n\n\n     Breaking Science\nI enjoy teaching a wide range of topics, from introductory statistics to advanced data science, and from qualitative research methodology to missing data methodology. I am also proud to be involved in supervising student thesis projects in ‘Applied Data Science’ and ‘Methodology and Statistics for the Behavioural, Biomedical and Social Sciences’."
+    "text": "Teaching & supervision\n\n\n     Breaking Science\nI enjoy teaching a wide range of topics, from introductory statistics to advanced data science, and from qualitative research methodology to missing data methodology. I also love supervising student projects in ‘Applied Data Science’ and ‘Methodology and Statistics for the Behavioural, Biomedical and Social Sciences’."
   },
   {
     "objectID": "about.html#open-science",
     "href": "about.html#open-science",
     "title": "About",
     "section": "Open Science",
-    "text": "Open Science\n\n\n    \nI’m somewhat of an Open Science activist. I am committed to promoting open science practices, such as preregistration, open data, and open access. I believe that open science is essential for improving the quality, transparency, and reproducibility of scientific research. As chair of the Open Science Community Utrecht, I get to represent a network of Utrecht-based (UU, UMCU, HU) open science practitioners and enthusiasts."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi! I’m Hanne.",
-    "section": "",
-    "text": "A statistician interested in data visualization, interdisciplinarity, and open science."
+    "text": "Open Science\n\n\n    \nI’m somewhat of an Open Science activist. I am committed to promoting open science practices, such as preregistration, open data, and open access. I believe that open science is essential for improving the quality, transparency, and reproducibility of scientific research. As chair of the Open Science Community Utrecht, I get to represent a network of Utrecht-based (UU, UMCU, HU, UvH) open science practitioners and enthusiasts."
   }
 ]
