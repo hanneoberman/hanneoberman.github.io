@@ -46,10 +46,10 @@ As part of my research, I develop software tools to facilitate the analysis of i
 ## Teaching & supervision
 
 :::{.column-margin}
+<br> <br> <br> <br> 
+![](images/rivm.png){width=60%} 
 <br> <br> 
-![](images/breakingscience.png){width=60%} 
-<br> <br> 
-[Breaking Science](https://www.uu.nl/en/research/breaking-science)
+[RIVM](https://hanneoberman.github.io/rivm) workshop
 :::
 
 I enjoy teaching a wide range of topics, from introductory statistics to advanced data science, and from qualitative research methodology to missing data methodology. I also love supervising student projects in 'Applied Data Science' and 'Methodology and Statistics for the Behavioural, Biomedical and Social Sciences'.
