@@ -18,7 +18,7 @@
     "href": "about.html#research",
     "title": "About",
     "section": "Research",
-    "text": "Research\n\n\n     {ggmice} poster\nCurrently, I am pursuing a PhD in missing data methodology. Have you ever skipped a question in a survey? You’re not alone! In scientific research, data are often incomplete, which may cause biased research results. I study how researchers can obtain reliable and accurate insights even when their data are incomplete."
+    "text": "Research\n\n\n     {ggmice} poster\nCurrently, I am pursuing a PhD in missing data methodology. I study how researchers can obtain reliable and accurate insights even when their data are incomplete.\nHow can we know when to trust the output of algorithms? I use data visualization to express algorithmic uncertainty, in particular when data sources are incomplete. In my research, I try to make missing data informative."
   },
   {
     "objectID": "about.html#programming",

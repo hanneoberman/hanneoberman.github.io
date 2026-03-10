@@ -6,7 +6,6 @@ My research focuses on missing data methodology, with an emphasis on imputation 
 
 You can reach out to me if you have any questions about imputation with the `R` package [`{mice}`](https://github.com/amices/mice/discussions), or if you want to collaborate on a project. I also offer workshops on missing data methodology, open science, and reproducible data science. And I'm available for consultation projects on imputing incomplete data, see [our department website on statistical consulting](https://www.uu.nl/en/organisation/methodology-and-statistics/training-and-support) or [e-mail me](mailto:h.i.oberman@uu.nl) directly.
 
-
 I aim to work open source and make all of my research repositories publicly available, for example on [GitHub](https://github.com/hanneoberman) or the [OSF](https://osf.io/d8c5f/). For an overview of my published work, see my [ORCID page](https://orcid.org/0000-0003-3276-2141). Other places to find my research output are my [CV](https://hanneoberman.github.io/CV/HanneOberman.html), [Utrecht University page](https://www.uu.nl/staff/HIOberman), and [Google Scholar](https://scholar.google.nl/citations?user=myLQXrEAAAAJ). 
 
 <br>

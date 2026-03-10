@@ -28,7 +28,12 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 [`{ggmice}`](https://amices.org/ggmice) poster
 :::
 
-Currently, I am pursuing a PhD in [missing data methodology](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data). Have you ever skipped a question in a survey? You're not alone! In scientific research, data are often incomplete, which may cause biased research results. I study how researchers can obtain reliable and accurate insights even when their data are incomplete. 
+Currently, I am pursuing a PhD in [missing data methodology](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data). I study how researchers can obtain reliable and accurate insights even when their data are incomplete.
+
+How can we know when to trust the output of algorithms? I use data visualization to express algorithmic uncertainty, in particular when data sources are incomplete. In my research, I try to make missing data informative.
+
+<!-- I am a passionate teacher, and would love to involve more societal partners and citizens in my 'target audience' to communicate with about my research. But with such a dry topic as statistics, I'm not sure how to make my work engaging enough. I loved talking part in Breaking Science, and hope to one day take part in Betweter of Lowlands Science. Maybe 'Gesprekken op Plekken' could be a nice start to work on during the Engage Academy? E.g., to develop a physical 'conversation starter' to entice citizens to talk about uncertainty in data, models, and algorithms? -->
+<!-- Have you ever skipped a question in a survey? You're not alone! In scientific research, data are often incomplete, which may cause biased research results. I study how researchers can obtain reliable and accurate insights even when their data are incomplete.  -->
 
 
 ## Programming
